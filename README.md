@@ -15,7 +15,7 @@ This exchange simulation randomly creates a set of 10 orders to buy or sell **UA
 
 ---
 
-## Behavior (Random Test Run)
+## Behavior
 
 - 🔁 Automatically generates:
   - 10 random orders
